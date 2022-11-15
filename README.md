@@ -6,6 +6,6 @@ The dataset contains around 135080 null values in CustomerId which might tend to
 After that I did  Feature engineering so it is the process of transforming raw data into features that better represent the underlying problem to the predictive models, resulting in improved accuracy on unseen data.
 And I converted the Invoice Date column into date time format and created new features like day, day_num,  month_num, year, hours etc. From Invoice Date and again created Total Amount from Product of Quantity and Unit price columns. This can help improve machine learning accuracy since algorithms tend to have a hard time dealing with high cardinality columns.
 
-For modelling I tried various algorithms like:
-1.K-means clustering
+For modelling I tried various algorithms like:<br>
+1.K-means clustering<br>
 2.Hierarchical clustering 
