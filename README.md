@@ -28,6 +28,6 @@ For modelling I tried various algorithms like:<br>
 <img src="https://github.com/zmwaris1/logos/blob/main/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy" height="40" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
 # Conclusion:<br>
-Upon plotting the WCSS(Within Cluster Sum of Squared Errors) vs k(number of clusters) plot the optimal number of "k" turns out to be 3. This is used in the final result to present the segment of customers based on the given data.
+Upon plotting the WCSS(Within Cluster Sum of Squared Errors) vs k(number of clusters) plot the optimal number of "k" turns out to be 2. This is used in the final result to present the segment of customers based on the given data.
 
 ## Thank you for visiting.
